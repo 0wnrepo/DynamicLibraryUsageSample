@@ -1,0 +1,11 @@
+LIBRARY "DynamicLibraryDllOnlySample"
+EXPORTS
+	Plus1_Dll		@1
+	Plus10_Dll		@2
+	Plus100_Dll		@3
+	Plus1000_Dll	@4
+	Plus10000_Dll	@5
+	Plus2_Dll		@6
+	Plus12_Dll		@7
+	Plus102_Dll		@8
+	Plus1002_Dll	@9
