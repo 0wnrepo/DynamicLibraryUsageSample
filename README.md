@@ -1,2 +1,1 @@
-# DynamicLibraryUsageSample
-DynamicLibraryUsageSample
+1234
